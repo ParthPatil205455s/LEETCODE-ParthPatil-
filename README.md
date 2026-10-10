@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
+| [0724-find-pivot-index](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/0724-find-pivot-index/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Dynamic Programming
@@ -82,4 +83,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0724-find-pivot-index](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
