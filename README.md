@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0724-find-pivot-index](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/0724-find-pivot-index/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -87,4 +88,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/0724-find-pivot-index/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 <!---LeetCode Topics End-->
