@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/0724-find-pivot-index/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,4 +93,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
