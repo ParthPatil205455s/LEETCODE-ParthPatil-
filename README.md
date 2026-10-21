@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
