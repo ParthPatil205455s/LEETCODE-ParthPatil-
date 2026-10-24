@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/2409-count-days-spent-together/) | Easy |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [2409-count-days-spent-together](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/2409-count-days-spent-together/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Enumeration
