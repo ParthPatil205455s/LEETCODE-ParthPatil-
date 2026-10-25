@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0724-find-pivot-index](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/0724-find-pivot-index/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -177,4 +181,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/1254-number-of-closed-islands/) | Medium |
 <!---LeetCode Topics End-->
