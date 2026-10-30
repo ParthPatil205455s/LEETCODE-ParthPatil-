@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2409-count-days-spent-together](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/2409-count-days-spent-together/) | Easy |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,4 +210,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 <!---LeetCode Topics End-->
