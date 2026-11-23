@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0724-find-pivot-index](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/0724-find-pivot-index/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/1882-process-tasks-using-servers/) | Medium |
@@ -139,10 +140,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/0724-find-pivot-index/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2409-count-days-spent-together](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/2409-count-days-spent-together/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -246,4 +249,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
