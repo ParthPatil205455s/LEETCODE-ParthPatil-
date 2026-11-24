@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
@@ -148,12 +149,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1352-product-of-the-last-k-numbers](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2409-count-days-spent-together](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/2409-count-days-spent-together/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -257,4 +260,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
