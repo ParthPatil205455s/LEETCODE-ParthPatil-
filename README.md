@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3886-sum-of-sortable-integers/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -268,4 +271,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
