@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1352-product-of-the-last-k-numbers](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2409-count-days-spent-together](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/2409-count-days-spent-together/) | Easy |
+| [3360-stone-removal-game](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+| [3360-stone-removal-game](https://github.com/ParthPatil205455s/LEETCODE-ParthPatil-/tree/main/3360-stone-removal-game/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
